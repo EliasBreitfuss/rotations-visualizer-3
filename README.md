@@ -1,9 +1,12 @@
 # 🌀 Drehgeschwindigkeit Visualisierung
 
-Ein kleines Python-Webtool (Streamlit), das zeigt, wie sich ein Kreis mit gegebener Drehzahl dreht.
+Eine interaktive Streamlit-Web-App, die zeigt, wie sich ein Punkt auf einem Kreis mit gegebener Drehzahl dreht.
 
 ## 🧩 Installation
 
+1. Repository klonen:
+
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+git clone <DEIN_REPO_URL>
+cd rotations-visualizer
+
